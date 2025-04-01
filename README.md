@@ -46,6 +46,8 @@
 
 ---
 
-<footer align="center">
-  <p>✨ Menggabungkan teknologi dan kreativitas untuk memecahkan masalah dunia nyata ✨</p>
+<footer>
+  <div  align="center">
+    <p>✨ Menggabungkan teknologi dan kreativitas untuk memecahkan masalah dunia nyata ✨</p>
+  </div>
 </footer>
