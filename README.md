@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://via.placeholder.com/150/007ACC/FFFFFF?text=AM" alt="Avatar" width="150"/>
+<!--   <img src="https://via.placeholder.com/150/007ACC/FFFFFF?text=AM" alt="Avatar" width="150"/> -->
   <h1>Abdullah Muchsin</h1>
-  <p>📱 Android Developer | UI/UX Customization | Realme Enthusiast</p>
-<!--   <a href="https://github.com/AbdullahMuchsin">
+  <p>📱 Android Developer | Web Developer </p>
+  <a href="https://github.com/AbdullahMuchsin">
     <img src="https://komarev.com/ghpvc/?username=AbdullahMuchsin&label=Profile%20Views&color=007ACC&style=flat" alt="View Counter"/>
-  </a> -->
+  </a>
 </div>
 
 ---
@@ -39,9 +39,18 @@
 ### 💡 **Skills & Tools**  
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
 </div>
 
 ---
@@ -51,13 +60,10 @@
   <a href="mailto:abdullahmuchsin@example.com">
     <img src="https://img.shields.io/badge/Email-007ACC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://t.me/AbdullahMuchsin">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
 </div>
 
 ---
 
 <footer>
-  <p>✨ Combining technology and creativity to solve real-world problems ✨</p>
+  <p>✨ Menggabungkan teknologi dan kreativitas untuk memecahkan masalah dunia nyata ✨</p>
 </footer>
