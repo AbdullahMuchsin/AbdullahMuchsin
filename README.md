@@ -10,28 +10,28 @@
 
 ---
 
-### 🚀 **Highlighted Projects**  
+### 📊 **Progress Commit & Aktivitas**
+
+#### **Statistik GitHub**
 <div>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/AbdullahMuchsin/realme-theme-engine">
-          <img src="https://via.placeholder.com/150/007ACC/FFFFFF?text=Theme+Engine" alt="Project" width="150"/>
-          <br>
-          <b>Realme Theme Engine</b>
-          <br>Kustomisasi tema Realme UI dengan Kotlin
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/AbdullahMuchsin/umkm-cafe-app">
-          <img src="https://via.placeholder.com/150/FF6B6B/FFFFFF?text=Kafe+App" alt="Project" width="150"/>
-          <br>
-          <b>Aplikasi Manajemen Kafe</b>
-          <br>Desktop app untuk UMKM kafe menggunakan Java
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMuchsin&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+</div>
+
+#### **Bahasa Pemrograman Teratas**
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMuchsin&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+#### **Aktivitas Mingguan**
+<div>
+  ![GitHub Activity Graph](https://activity-graph.githubusercontent.com/graph?username=AbdullahMuchsin&bg_color=000000&color=7F52FF&line=007ACC&point=FF6B6B&area=true&hide_border=true)
+</div>
+
+#### **Waktu Coding (WakaTime)**
+<div>
+  <a href="https://wakatime.com/@your-wakatime-username">
+    <img src="https://wakatime.com/badge/user/your-wakatime-user-id.svg" alt="WakaTime Stats"/>
+  </a>
 </div>
 
 ---
