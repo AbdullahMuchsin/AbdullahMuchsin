@@ -19,7 +19,7 @@
 ---
 
 ## 💡 **Keahlian & Alat**
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -38,7 +38,7 @@
 ---
 
 ## 📧 **Kontak**
-<div align="center">
+<div>
   <a href="mailto:abdullahmuchsin@example.com">
     <img src="https://img.shields.io/badge/Email-007ACC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
