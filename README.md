@@ -13,25 +13,13 @@
 ### 📊 **Progress Commit & Aktivitas**
 
 #### **Statistik GitHub**
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMuchsin&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-</div>
-
-#### **Bahasa Pemrograman Teratas**
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMuchsin&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
-#### **Aktivitas Mingguan**
-<div>
-  ![GitHub Activity Graph](https://activity-graph.githubusercontent.com/graph?username=AbdullahMuchsin&bg_color=000000&color=7F52FF&line=007ACC&point=FF6B6B&area=true&hide_border=true)
-</div>
-
-#### **Waktu Coding (WakaTime)**
-<div>
-  <a href="https://wakatime.com/@your-wakatime-username">
-    <img src="https://wakatime.com/badge/user/your-wakatime-user-id.svg" alt="WakaTime Stats"/>
-  </a>
+<div style="display: flex; gap: 20px;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMuchsin&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMuchsin&layout=compact&theme=radical" alt="Top Languages"/>
+  </div>
 </div>
 
 ---
