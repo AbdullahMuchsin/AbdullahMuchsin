@@ -13,16 +13,14 @@
 ### 📊 **Progress Commit & Aktivitas**
 
 #### **Statistik GitHub**
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMuchsin&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMuchsin&layout=compact&theme=radical" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMuchsin&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMuchsin&layout=compact&theme=radical" alt="Top Languages"/>
+  </div>
+</div>
 
 ---
 
