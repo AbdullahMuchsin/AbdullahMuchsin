@@ -2,10 +2,6 @@
 <div align="center">
   <h1>Abdullah Muchsin</h1>
   <p>📱 Android Developer | 🌐 Web Developer</p>
-  
-  <a href="https://github.com/AbdullahMuchsin">
-    <img src="https://komarev.com/ghpvc/?username=AbdullahMuchsin&label=Profile%20Views&color=007ACC&style=flat" alt="Profile Views"/>
-  </a>
 </div>
 
 ---
