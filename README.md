@@ -37,7 +37,7 @@
 
 ## 📧 **Kontak**
 <div>
-  <a href="mailto:abdullahmuchsin@example.com">
+  <a href="mailto:abdullahmuchsin96@gmail.com">
     <img src="https://img.shields.io/badge/Email-007ACC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
