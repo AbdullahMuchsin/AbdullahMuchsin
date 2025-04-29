@@ -11,7 +11,7 @@
 {
   "Mobile Development": ["Android", "Java", "Flutter", "Dart"],
   "Web Development": ["PHP", "Laravel", "CodeIgniter", "HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Bootstrap"],
-  "Tools": ["Git", "VSCodde", "Figma"]
+  "Tools": ["Git", "VSCode", "Figma"]
 }
 </pre>
 
